@@ -1,4 +1,6 @@
 ## Simple Mastering GUI
+<img width="730" height="508" alt="Screenshot_20251101_122510" src="https://github.com/user-attachments/assets/d2c1c633-df26-4d58-87f4-75fd483ed063" />
+
 A simple, open-source Qt6 (PySide6) graphical user interface for the powerful matchering-cli audio mastering tool.
 
 This app provides a user-friendly frontend for mastering single songs or entire batches of audio files without having to remember command-line arguments.
